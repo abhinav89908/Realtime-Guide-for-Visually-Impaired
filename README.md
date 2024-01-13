@@ -25,7 +25,7 @@ Realtime Guide for Visually Impaired is a project aimed at providing real-time a
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/realtime-guide-for-visually-impaired.git
+    git clone https://github.com/abhinav89908/Realtime-Guide-for-Visually-Impaired.git
     ```
 
 2. Navigate to the project directory:
@@ -45,7 +45,7 @@ Realtime Guide for Visually Impaired is a project aimed at providing real-time a
 1. Run the main script:
 
     ```bash
-    python main.py
+    python app.py
     ```
 
 2. Follow the voice prompts to receive real-time guidance about detected objects.
@@ -53,10 +53,6 @@ Realtime Guide for Visually Impaired is a project aimed at providing real-time a
 ## Contributing
 
 Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md) for details on how to contribute to this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
